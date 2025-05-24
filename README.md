@@ -1,1 +1,1 @@
-## TO RUN ON LOCAL MACHINE USE go run scrapper.go main.go
+### To run on local machine use "go run scrapper.go main.go"
